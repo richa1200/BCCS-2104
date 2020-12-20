@@ -1,0 +1,3 @@
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/cmake-build-debug/CMakeFiles/BCCS_2104.dir
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

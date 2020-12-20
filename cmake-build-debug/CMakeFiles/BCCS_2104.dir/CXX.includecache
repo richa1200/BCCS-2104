@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/bill.h
+string
+-
+vector
+-
+item.h
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/item.h
+
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/customer.h
+string
+-
+
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/item.h
+string
+-
+
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/main.cpp
+iostream
+-
+manager.h
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/manager.h
+item.h
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/item.h
+reception.h
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/reception.h
+customer.h
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/customer.h
+bill.h
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/bill.h
+
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/manager.h
+string
+-
+algorithm
+-
+reception.h
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/reception.h
+item.h
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/item.h
+bill.h
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/bill.h
+
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/reception.cpp
+reception.h
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/reception.h
+
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/reception.h
+string
+-
+vector
+-
+algorithm
+-
+item.h
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/item.h
+bill.h
+C:/Users/I_am_/OneDrive/Desktop/OOP Project/2019-BCS-047_project/bill.h
+
